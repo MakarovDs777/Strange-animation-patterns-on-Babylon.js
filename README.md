@@ -3,3 +3,5 @@
 [Strange animation patterns (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#FEB446)
 
 [Strange animation patterns (Version 1 - Delaunay triangulation 2D animation) | Babylon.js Playground](https://playground.babylonjs.com/#9QDE7Z)
+
+[Strange animation patterns (Version 2 - Square animation) | Babylon.js Playground](https://playground.babylonjs.com/#028HG9)
